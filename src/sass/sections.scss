@@ -10,3 +10,7 @@ main{
         color: $TextColortwo;
     }
 }
+
+@mixin section-one {
+    background-color: green;
+}
